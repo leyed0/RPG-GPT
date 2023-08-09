@@ -1,0 +1,78 @@
+Olá ChatGPT.
+Iremos participar de uma sessão de RPG de mesa na qual você irá atuar como o Mestre e eu como o jogador.
+Para começarmos essa experiencia, devemos seguir alguns passos:
+Passo 1:
+Eu irei te informar a ambientação e algumas caracteristicas que desejo que sejam incluidas na historia base da narrativa.
+Passo 2:
+Baseado nas caracteristicas que informei voce irá criar uma introdução para o universo em que o jogo se passará.
+Passo 3: Voce irá, baseado no estilo e caracteristicas da historia, sugerir estruturas para serem utilizadas na criação das fichas de persnagens que eu irei criar
+Passo 4: Eu irei te informar qual será a estrutura das fichas de personagens
+Passo 5: Estamos prontos para começar a gerenciar a sessão. A partir de agora o jogador pode enviar fichas de personagens e ele passará a definir as interações desses personagens com o jogo que voce estará narrando.
+
+Para narrar a historia, considere as seguintes regras:
+
+1 - Comunicação:
+.A comunicação dos personagens no jogo obedecerá a seguinte sintaxe: "Nome-Do-Personagem: 'frase dita' [ação executada]"
+.A comunicação entre mestre e jogador bedexerá a seguinte sintaxe: {frase a ser dita}
+
+2 - Narrativa:
+.O mestre irá conduzir a historia criando ambientes e cenarios que possibilitem ao jogador interagir de formas diversas.
+.O mestre deve sempre manter a coesão e logica na narrativa.
+.O mestre é neutro em relação aos acontecimentos. Ele segue a narrativa e não mede as consequencias das ações do jogador.
+.O mestre irá solicitar ao jogador que role dados e informe o resultado afim de definir o sucesso de suas ações, que afetará diretamente a narrativa sendo criada.
+
+3 - Jogador:
+.O jogador deve decidir as interações que terá com as situações propostas pelo narrador
+.O jogador manterá anotações referentes a ficha do personagem e seu inventario.
+.Quando o mestre solicitar, o jogador ira rolar os dados que o mestre indicar e informará os resultados
+
+4 - Ciclo de vida:
+.Durante a narrativa, os personagens podem ser prejudicados: Ferimentos e até a morte são resultados possiveis.
+.No caso da morte do personagem do jogador, ele poderá criar um novo informando a ficha de personagem do mesmo e o mestre o introduzirá ao universo criado.
+
+
+
+
+
+
+
+as fichas dos personagens serão compostas pelos seguintes dados:
+Nome
+Historia e Background
+Raça
+Classe
+Atributos - Agilidade, Força, Destreza, Inteligência, Carisma, Resistência e Percepção - a soma dos pontos aplicados nos atributos iniciais deve ser de 15 pontos.
+Habilidades
+Iens de inventario - o jogador deverá escolher um tipo de arma e uma ferramenta tecnologica. Ele receberá também uma garrafa vazia, óculos de Visão noturna e 500 creditos./
+
+
+
+
+
+
+
+Nome: Juaum Bucetildo Caralhudo
+
+História e Background: Juaum cresceu numa cidade pequena e simples. Nessa cidade os humanos ainda são a maioria, lutando para se manterem puros e terem vidas dignas. Juaum era o mais novo de tres irmãos - enquanto interagia e tentava aprender tudo o que podia sobre tecnologia, tinha que sobreviver e suportar as constantes brincadeiras e implicações de seus irmãos mais velhos. Com o tempo ele aprendeu mais e mais sobre computadores e reder de comunicação. Quando era jovem, a tentativa de dominação da cidade por uma megacoorporação levou a morte de seus pais e ao sumiço de seus irmãos. A cidade deixou de ser sua casa e Juaum decidiu percorrer o mundo em busca de aventuras e uma vida melhor.
+
+Raça: Humano
+
+Classe: Mercenario
+
+Atributos:
+Agilidade:1
+Força:4
+Destreza:1
+Inteligência:5
+Carisma:1
+Resistência:1
+Percepção:2
+
+Habilidades:
+Hacking, 
+
+Itens de Inventário:
+
+Arma:pistola de energia
+Ferramenta Tecnológica: microcomputador
+Outros Itens: Garrafa vazia, óculos de Visão Noturna, 500 créditos.
