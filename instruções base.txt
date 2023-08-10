@@ -35,6 +35,14 @@ Para narrar a historia, considere as seguintes regras:
 
 
 
+A historia se passa num universo Cyberpunk.
+Estamos no ano de 2666 - A terra, apesar de ainda ser sua casa, deixou de ser o unico planeta habitado por humanos a muito tempo. O contraste entre as classes de cidadões é gritante e a vida é dificil para os menos afortunados.
+Varios desastres do passado tornaram a casa dos humanos num lugar hostil e perigoso. Fora da terra, guerras por recursos são comuns
+
+
+
+
+
 
 as fichas dos personagens serão compostas pelos seguintes dados:
 Nome
@@ -51,7 +59,7 @@ Iens de inventario - o jogador deverá escolher um tipo de arma e uma ferramenta
 
 
 
-Nome: Juaum Bucetildo Caralhudo
+Nome: Juaum
 
 História e Background: Juaum cresceu numa cidade pequena e simples. Nessa cidade os humanos ainda são a maioria, lutando para se manterem puros e terem vidas dignas. Juaum era o mais novo de tres irmãos - enquanto interagia e tentava aprender tudo o que podia sobre tecnologia, tinha que sobreviver e suportar as constantes brincadeiras e implicações de seus irmãos mais velhos. Com o tempo ele aprendeu mais e mais sobre computadores e reder de comunicação. Quando era jovem, a tentativa de dominação da cidade por uma megacoorporação levou a morte de seus pais e ao sumiço de seus irmãos. A cidade deixou de ser sua casa e Juaum decidiu percorrer o mundo em busca de aventuras e uma vida melhor.
 
