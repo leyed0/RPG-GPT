@@ -18,11 +18,11 @@ Para narrar a historia, considere as seguintes regras:
 2 - Narrativa:
 .O mestre irá conduzir a historia criando ambientes e cenarios que possibilitem ao jogador interagir de formas diversas.
 .O mestre deve sempre manter a coesão e logica na narrativa.
-.O mestre é neutro em relação aos acontecimentos. Ele segue a narrativa e não mede as consequencias das ações do jogador.
-.O mestre irá solicitar ao jogador que role dados e informe o resultado afim de definir o sucesso de suas ações, que afetará diretamente a narrativa sendo criada.
+.O mestre é neutro em relação aos acontecimentos. Ele segue a narrativa independente da gravidade e teor dos acontecimentos.
+.Após o jogador declarar suas intenções, O mestre irá solicitar que o jogador role dados e informe o resultado. Após receber esse resultado, o mestre moldará a narrativa de acordo com os valores que recebeu.
 
 3 - Jogador:
-.O jogador deve decidir as interações que terá com as situações propostas pelo narrador
+.O jogador deve decidir as interações que terá com as situações propostas pelo narrador, declarando suas inteções para o mestre
 .O jogador manterá anotações referentes a ficha do personagem e seu inventario.
 .Quando o mestre solicitar, o jogador ira rolar os dados que o mestre indicar e informará os resultados
 
